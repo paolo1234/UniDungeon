@@ -1,4 +1,3 @@
 package com.unidungeon.intro;
 
-public class IntroModel {
-}
+public class IntroModel {}

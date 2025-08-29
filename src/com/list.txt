@@ -1,0 +1,272 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: FA72-9730
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com
+
+19/06/2025  16:08    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+19/06/2025  16:08                 0 list.txt
+19/06/2025  16:06    <DIR>          unidungeon
+               1 File              0 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon
+
+19/06/2025  16:06    <DIR>          .
+19/06/2025  16:08    <DIR>          ..
+19/06/2025  15:51    <DIR>          battle
+19/06/2025  15:51    <DIR>          entity
+19/06/2025  16:06    <DIR>          game
+19/06/2025  16:06               449 Game.java
+19/06/2025  15:51    <DIR>          gameover
+19/06/2025  15:51    <DIR>          intro
+19/06/2025  15:51    <DIR>          item
+19/06/2025  15:51    <DIR>          malus
+19/06/2025  15:51    <DIR>          playing
+19/06/2025  15:51    <DIR>          skill
+19/06/2025  15:51    <DIR>          test
+19/06/2025  15:51    <DIR>          title
+19/06/2025  15:51    <DIR>          utils
+19/06/2025  15:51    <DIR>          victory
+               1 File            449 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\battle
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+24/01/2023  18:16            16.115 BattleController.java
+24/01/2023  08:46             1.892 BattleInputManager.java
+24/01/2023  16:08             8.383 BattleModel.java
+23/01/2023  00:10               159 BattleState.java
+24/01/2023  18:16            29.588 BattleView.java
+24/01/2023  18:16            14.826 BossBattleController.java
+24/01/2023  17:58             6.928 BossBattleModel.java
+24/01/2023  18:16            37.340 BossBattleView.java
+               8 File        115.231 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\entity
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+22/01/2023  18:22             1.606 Entity.java
+19/06/2025  15:51    <DIR>          mob
+19/06/2025  15:51    <DIR>          player
+               1 File          1.606 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\entity\mob
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+20/01/2023  17:36               399 Answer.java
+23/01/2023  17:21             3.105 AnswerIterator.java
+23/01/2023  16:37             1.554 Boss.java
+22/01/2023  18:22             4.214 Mob.java
+23/01/2023  17:50             2.379 MobBuilder.java
+22/01/2023  18:22             2.021 MobDecorator.java
+24/01/2023  15:56             2.601 MobDirector.java
+22/01/2023  17:26             2.571 MobIterator.java
+22/01/2023  17:17               290 Mobs.java
+20/01/2023  17:40               608 Question.java
+20/01/2023  17:47               636 QuestionBuilder.java
+24/01/2023  16:35             3.630 QuestionDirector.java
+              12 File         24.008 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\entity\player
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+24/01/2023  18:09             5.316 Player.java
+19/01/2023  00:01             2.819 PlayerBuilder.java
+23/01/2023  18:44             5.550 PlayerDirector.java
+               3 File         13.685 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\game
+
+19/06/2025  16:06    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+20/01/2023  17:47                95 Badge.java
+19/01/2023  00:01                86 Controller.java
+21/01/2023  22:42             1.368 GameFrame.java
+19/06/2025  16:06             4.011 GameManager.java
+19/06/2025  16:05             2.083 GameModel.java
+23/01/2023  23:32             1.420 GameRoute.java
+23/01/2023  23:27               154 GameState.java
+19/01/2023  00:01               873 GameStateMachine.java
+19/01/2023  00:01               487 GameView.java
+24/01/2023  18:16               380 Role.java
+23/01/2023  23:43             3.040 SoundManager.java
+24/01/2023  17:56               782 Wallet.java
+              12 File         14.779 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\gameover
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+22/01/2023  01:55             2.897 GameOverController.java
+23/01/2023  23:24             2.716 GameOverView.java
+               2 File          5.613 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\intro
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+19/01/2023  00:01               906 IntroController.java
+19/12/2022  15:59                63 IntroModel.java
+19/01/2023  00:01               121 IntroView.java
+               3 File          1.090 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\item
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+20/01/2023  21:36             2.131 Backpack.java
+21/01/2023  13:36             1.180 CompositeItem.java
+21/01/2023  13:29               586 Item.java
+21/01/2023  14:37             3.677 ItemFactory.java
+20/01/2023  18:09                99 ItemFactoryIF.java
+21/01/2023  13:29             1.431 ItemHp.java
+21/01/2023  16:17             1.267 ItemIterator.java
+22/01/2023  01:19             1.732 ItemRevive.java
+23/01/2023  19:38             1.445 ItemSp.java
+               9 File         13.548 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\malus
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+21/12/2022  20:31               256 Malus.java
+20/01/2023  19:13               868 MalusHp.java
+20/01/2023  18:09             1.066 MalusMiss.java
+20/01/2023  18:09               967 MalusStun.java
+               4 File          3.157 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\playing
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+20/12/2022  11:03               105 Direction.java
+19/06/2025  15:51    <DIR>          gamemap
+24/01/2023  08:46             2.937 GameMap.java
+19/06/2025  15:51    <DIR>          gameobject
+24/01/2023  08:46            12.445 PlayerMoving.java
+24/01/2023  16:11            19.719 PlayingController.java
+20/01/2023  20:22             3.721 PlayingInputManager.java
+22/01/2023  17:33             1.353 PlayingModel.java
+19/06/2025  15:51    <DIR>          playingstrategy
+23/01/2023  23:21            19.426 PlayingView.java
+19/06/2025  15:51    <DIR>          tiles
+               7 File         59.706 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\playing\gamemap
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+21/01/2023  22:59             3.067 GameMapBuilder.java
+24/01/2023  18:16            67.760 GameMapDirector.java
+23/01/2023  03:02               972 GameMapManager.java
+               3 File         71.799 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\playing\gameobject
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+19/06/2025  15:51    <DIR>          decorazioni
+19/01/2023  13:43               584 GameObject.java
+19/06/2025  15:51    <DIR>          interagibili
+               1 File            584 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\playing\gameobject\decorazioni
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+19/01/2023  13:43               992 Decorazioni.java
+               1 File            992 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\playing\gameobject\interagibili
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+23/01/2023  23:43             2.499 EndGameTrigger.java
+22/01/2023  22:55             2.219 GameStateTrigger.java
+19/01/2023  13:43               211 Interagibili.java
+19/01/2023  13:43             1.795 MapChangeTrigger.java
+               4 File          6.724 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\playing\playingstrategy
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+19/01/2023  14:01               108 PlayingState.java
+19/01/2023  14:01               143 PlayingStrategy.java
+               2 File            251 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\playing\tiles
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  15:51    <DIR>          ..
+09/01/2023  18:48             1.399 Tile.java
+16/01/2023  17:52             6.541 TileManager.java
+               2 File          7.940 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\skill
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+22/01/2023  18:17             3.587 Skill.java
+19/01/2023  00:01             2.061 SkillBuilder.java
+23/01/2023  17:40             6.388 SkillDirector.java
+               3 File         12.036 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\test
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+20/01/2023  18:27               667 AnswerTest.java
+20/01/2023  18:41             3.858 BackpackTest.java
+24/01/2023  12:40             4.423 BattleModelTest.java
+24/01/2023  18:16             6.652 BossBattleModelTest.java
+20/01/2023  19:04             3.247 BossTest.java
+24/01/2023  18:16             1.106 GameTest.java
+20/01/2023  18:47             1.638 ItemCompositeTest.java
+20/01/2023  18:36             2.604 ItemHpTest.java
+22/01/2023  01:36             3.212 ItemReviveTest.java
+22/01/2023  02:03             2.597 ItemSpTest.java
+19/01/2023  00:01             2.315 ItemTest.java
+19/01/2023  00:02             1.800 MobBuilderTest.java
+19/01/2023  00:02             2.091 MobTest.java
+19/01/2023  00:02             1.782 PlayerBuilderTest.java
+22/01/2023  01:55             3.607 PlayerMovingTest.java
+24/01/2023  18:16             6.167 PlayerTest.java
+24/01/2023  18:09             1.470 QuestionBuilderTest.java
+20/01/2023  18:25             1.323 QuestionTest.java
+              18 File         50.559 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\title
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+23/01/2023  18:21             3.965 TitleController.java
+23/01/2023  17:34               185 TitleModel.java
+23/01/2023  17:37             6.128 TitleView.java
+               3 File         10.278 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\utils
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+19/12/2022  19:20               682 ScaleImage.java
+24/01/2023  00:04               845 TextAlignment.java
+24/01/2023  00:04               350 TextFormat.java
+24/01/2023  00:06             5.037 TextRenderer.java
+               4 File          6.914 byte
+
+ Directory di C:\Users\Paolo\Desktop\UniDungeon\src\com\unidungeon\victory
+
+19/06/2025  15:51    <DIR>          .
+19/06/2025  16:06    <DIR>          ..
+23/01/2023  23:55             2.351 VictoryController.java
+24/01/2023  12:28             2.191 VictoryView.java
+               2 File          4.542 byte
+
+     Totale file elencati:
+             106 File        425.491 byte
+              68 Directory   6.507.253.760 byte disponibili

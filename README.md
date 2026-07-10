@@ -1,8 +1,39 @@
-<img width="763" height="605" alt="image" src="https://github.com/user-attachments/assets/a9cb7a39-c6c7-4d3b-b870-76f49df40179" />
+# ⚔️ UniDungeon
 
-<img width="768" height="606" alt="image" src="https://github.com/user-attachments/assets/fa38964b-3198-4c6d-b58d-09d2a128c69e" />
+**Linguaggio:** Java | **Periodo:** 2022–2025  
+Un gioco **roguelike/dungeon crawler** sviluppato in Java, realizzato come progetto universitario e personale.
 
-<img width="768" height="605" alt="image" src="https://github.com/user-attachments/assets/1385b8b9-360a-4429-9392-686830adfbe2" />
+## 🎮 Descrizione
 
-<img width="762" height="604" alt="image" src="https://github.com/user-attachments/assets/66f3fb8f-a5e2-49ac-98e1-059c270a0efc" />
+UniDungeon è un gioco di tipo dungeon crawler dove il giocatore esplora dungeon generati proceduralmente, affronta nemici, raccoglie tesori e potenzia il proprio personaggio. Il progetto è stato sviluppato nell'arco di più anni come evoluzione di un progetto universitario.
 
+## 📁 Struttura
+
+| Percorso | Contenuto |
+|---|---|
+| `src/` | Codice sorgente Java |
+| `lib/` | Librerie e dipendenze |
+| `resources/` | Asset di gioco (immagini, suoni, mappe) |
+| `out/` | Build e classi compilate |
+| `.idea/` | Configurazione IntelliJ IDEA |
+
+## Requisiti
+
+- Java JDK 17+
+- IntelliJ IDEA (consigliato)
+
+## Come eseguire
+
+```bash
+# Compilazione
+javac -d out src/**/*.java
+
+# Esecuzione
+java -cp out main.MainClass
+```
+
+Oppure apri il progetto in IntelliJ IDEA ed esegui da IDE.
+
+## Stato
+
+📦 **Completato / In pausa** — il progetto ha raggiunto uno stadio giocabile.
